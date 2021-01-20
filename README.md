@@ -5,7 +5,7 @@
 - 🚀 FullStack Developer  
 - 🎮 RPG and another games fan
 - 👊 Just do it! 
-- ✝️ Deus vult
+- ✝️ Viva Cristo Rei!
 </br>
 </br>
 
