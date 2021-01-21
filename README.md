@@ -10,8 +10,7 @@
 </br>
 
 ## About my skills
-<img alt="php" src="https://emojis.slackmojis.com/emojis/images/1598512646/10311/php-logo.png?1598512646" width="30"/>
-<img alt="Delphi" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png" width="30"/>
+<img alt="php" src="https://emojis.slackmojis.com/emojis/images/1598512646/10311/php-logo.png?1598512646" width="30"/><img alt="Delphi" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png" width="30"/>
 <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/512px-C_Sharp_logo.svg.png" width="30"/>
 <img alt="PostgreSQL" src="https://emojis.slackmojis.com/emojis/images/1450470347/198/postgresql.png?1450470347" width="30"/>
 <img alt="GraphQL" src="https://emojis.slackmojis.com/emojis/images/1495403651/2320/graphql.png?1495403651" width="28"/>
