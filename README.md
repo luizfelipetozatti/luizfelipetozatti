@@ -17,4 +17,4 @@
 ### How can you find me?? 
 
 
-<a align="left" href="https://www.linkedin.com/in/luizfelipetozatti/" target="_new"><img alt="Luiz's Linkedin" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="25"/></a>   <a href="mailto:luizfelipetozatti@hotmail.com"><img alt="Luiz's outlook account" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Outlook_hi-res_icon_%282019%29.svg/1200px-Outlook_hi-res_icon_%282019%29.svg.png" width="28"/></a>
+<a align="left" href="https://www.linkedin.com/in/luizfelipetozatti/" target="_blank"><img alt="Luiz's Linkedin" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="25"/></a>   <a href="mailto:luizfelipetozatti@hotmail.com"><img alt="Luiz's outlook account" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Outlook_hi-res_icon_%282019%29.svg/1200px-Outlook_hi-res_icon_%282019%29.svg.png" width="28"/></a>
