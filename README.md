@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/static/v1?label=Delphi&message=100%&color=EE1F35&style=flat&logo=delphi"/> <img src="https://img.shields.io/static/v1?label=PHP&message=60%&color=777BB4&style=flat&logo=php"/>
 <img src="https://img.shields.io/static/v1?label=C Sharp&message=60%&color=239120&style=flat&logo=C Sharp"/>
 <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=100%&color=336791&style=flat&logo=PostgreSQL"/>
+<img src="https://img.shields.io/static/v1?label=GraphQL&message=50%&color=E10098&style=flat&logo=GraphQL"/>
 
 <img alt="php" src="https://emojis.slackmojis.com/emojis/images/1598512646/10311/php-logo.png?1598512646" width="30"/>
 <img alt="Delphi" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png" width="30"/>
