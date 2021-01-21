@@ -10,7 +10,9 @@
 </br>
 
 ## About my skills
-<img src="https://img.shields.io/static/v1?label=Delphi&message=100%&color=brightgreen&style=flat&logo=delphi"/> <img src="https://img.shields.io/static/v1?label=PHP&message=60%&color=brightgreen&style=flat&logo=php"/>
+<img src="https://img.shields.io/static/v1?label=Delphi&message=100%&color=brightgreen&style=flat&logo=delphi"/><img src="https://img.shields.io/static/v1?label=PHP&message=60%&color=brightgreen&style=flat&logo=php"/>
+<img src="https://img.shields.io/static/v1?label=C#&message=60%&color=brightgreen&style=flat&logo=c#"/>
+
 <img alt="php" src="https://emojis.slackmojis.com/emojis/images/1598512646/10311/php-logo.png?1598512646" width="30"/>
 <img alt="Delphi" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png" width="30"/>
 <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/512px-C_Sharp_logo.svg.png" width="30"/>
