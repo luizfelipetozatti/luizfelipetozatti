@@ -17,8 +17,8 @@
 <img src="https://img.shields.io/static/v1?label=SQLServer&message=70%&color=CC2927&style=flat&logo=SQLServer"/>
 <img src="https://img.shields.io/static/v1?label=Oracle&message=70%&color=F80000&style=flat&logo=Oracle"/>
 <img src="https://img.shields.io/static/v1?label=Docker&message=30%&color=2496ED&style=flat&logo=Docker"/>
-<img src="https://img.shields.io/static/v1?label=HTML&message=70%&color=F80000&style=flat&logo=HTML"/>
-<img src="https://img.shields.io/static/v1?label=CSS&message=70%&color=F80000&style=flat&logo=CSS"/>
+<img src="https://img.shields.io/static/v1?label=HTML5&message=70%&color=E34F26&style=flat&logo=HTML5"/>
+<img src="https://img.shields.io/static/v1?label=CSS3&message=70%&color=1572B6&style=flat&logo=CSS3"/>
 
 //<img alt="php" src="https://emojis.slackmojis.com/emojis/images/1598512646/10311/php-logo.png?1598512646" width="30"/>
 //<img alt="Delphi" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png" width="30"/>
