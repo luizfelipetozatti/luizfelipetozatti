@@ -1,6 +1,6 @@
 # Nice to meet ya! 
 
-### A coder Technology lover and enthusiast
+### A coder technology lover and enthusiast
 
 - 🚀 FullStack Developer  
 - 🎮 RPG and another games fan
