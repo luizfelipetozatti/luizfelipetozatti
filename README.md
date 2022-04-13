@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/static/v1?label=C%20Sharp&message=60%&color=239120&style=flat&logo=C%20Sharp"/>
 <img src="https://img.shields.io/static/v1?label=Java&message=50%&color=239120&style=flat&logo=Java"/>
 <img src="https://img.shields.io/static/v1?label=Spring&message=50%&color=239120&style=flat&logo=Spring"/>
-<img src="https://img.shields.io/static/v1?label=GraphQL&message=40%&color=E10098&style=flat&logo=GraphQL"/>
+<img src="https://img.shields.io/static/v1?label=GraphQL&message=20%&color=E10098&style=flat&logo=GraphQL"/>
 <img src="https://img.shields.io/static/v1?label=Docker&message=30%&color=2496ED&style=flat&logo=Docker"/>
 <img src="https://img.shields.io/static/v1?label=HTML5&message=70%&color=E34F26&style=flat&logo=HTML5"/>
 <img src="https://img.shields.io/static/v1?label=CSS3&message=70%&color=1572B6&style=flat&logo=CSS3"/>
