@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=100%&color=336791&style=flat&logo=PostgreSQL"/>
 <img src="https://img.shields.io/static/v1?label=SQLServer&message=70%&color=CC2927&style=flat&logo=SQLServer"/>
 <img src="https://img.shields.io/static/v1?label=Oracle&message=70%&color=F80000&style=flat&logo=Oracle"/>
+<img src="https://img.shields.io/static/v1?label=React&message=30%&color=1572B6&style=flat&logo=React"/>
 </br>
 </br>
 
