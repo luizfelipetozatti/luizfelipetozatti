@@ -3,7 +3,7 @@
 ### A coder
 
 - 🚀 FullStack Developer  
-- 🎮 RPG and another games fan
+- 🎮 RPG and gamer
 - 👊 Just do it! 
 - ✝️ Viva Cristo Rei!
 </br>
