@@ -11,7 +11,7 @@
 ## About my skills
 <img src="https://img.shields.io/static/v1?label=Delphi&message=90%&color=EE1F35&style=flat&logo=delphi"/> <img src="https://img.shields.io/static/v1?label=PHP&message=60%&color=777BB4&style=flat&logo=php"/>
 <img src="https://img.shields.io/static/v1?label=C%20Sharp&message=50%&color=239120&style=flat&logo=C%20Sharp"/>
-<img src="https://img.shields.io/static/v1?label=Java&message=70%&color=239120&style=flat&logo=Java"/>
+<img src="https://img.shields.io/static/v1?label=Java&message=85%&color=239120&style=flat&logo=Java"/>
 <img src="https://img.shields.io/static/v1?label=Spring&message=50%&color=239120&style=flat&logo=Spring"/>
 <img src="https://img.shields.io/static/v1?label=React&message=40%&color=1572B6&style=flat&logo=React"/>
 <img src="https://img.shields.io/static/v1?label=GraphQL&message=20%&color=E10098&style=flat&logo=GraphQL"/>
