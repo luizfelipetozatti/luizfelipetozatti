@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Luiz Felipe Tozatti</h1>
-<h3 align="center">💻 Backend Developer | Java | Spring Boot | React | Delphi</h3>
+<h3 align="center">💻 Software Engineer | Java | Spring Boot | React | SQL | Delphi </h3>
 
 <p align="center">
   <a href="mailto:luizfelipetozatti@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail"></a>
