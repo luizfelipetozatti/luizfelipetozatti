@@ -89,8 +89,8 @@ Faculdades Integradas Logatti — Araraquara, São Paulo, Brazil
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api?username=luizfelipetozatti&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api/top-langs/?username=luizfelipetozatti&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=luizfelipetozatti&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luizfelipetozatti&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
